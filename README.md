@@ -18,3 +18,23 @@ Just like Hackathon, datathon aims to test students' ability to find and solve p
 > Specifically, identify the products, sub-products, issues and sub issues as well as corporations and sub sectors that create most problems for the consumers.  Search through the consumer text narratives to identify the top areas of consumer complaints.   
 
 > Identify all possible factors, existing in this dataset or not, that have the highest impact in leading to consumer complaints.  Provide advice to the federal government and propose five specific pieces of legislation to the US Congress.  
+
+## Deliverables  
+1. [Tableau](https://github.com/samileyang/CFPB-Analysis/tree/master/Tableau)  
+2. Code in [R for data cleaning]()  and [Python for ngram&wordcloud]()   
+3. [Slides](https://github.com/samileyang/CFPB-Analysis/tree/master/Slides)  
+
+## Conclusion  
+1. Enhance monitoring on new-categorized and emerging products/services  
+    * Requirements for supporting procedure/system updates when updating product catalog  
+2. Regulations to decrease untimely response rate  
+    * Set upper limit  
+    * Information transparency --blacklist of companies with high untimely-response rate  
+3. Legislation on complaint handling  
+    * Complaint Close Procedure
+4. Consumers education and training  
+5. Regulations to improve small companies’ effectiveness  
+    * Industry Seminar/ coaching 
+    * Required training for complaint handling personnel 
+6. Legislation on preventing identity theft  
+
