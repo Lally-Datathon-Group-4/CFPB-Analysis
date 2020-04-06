@@ -1,5 +1,15 @@
 # CFPB-Analysis
 ---
+## Self introduction  
+This team is made up of six people: [Yihui Yang(MSBA)](https://www.linkedin.com/in/yihui-sam-yang-771aa5147/),
+[Jiarun Li(MSBA)](https://www.linkedin.com/in/jiarun-li-98779a135/),
+[Shuang Wu(MBA)](https://www.linkedin.com/in/shuang-w/),
+[Xiuqi Wang(MSBA)](https://www.linkedin.com/in/xiuqi-wang-296241172/),
+[Baiting Gai(MSBA)](https://www.linkedin.com/in/baiting-claire-gai-81413b159/),
+[Ziyi Zhang(MSBA)](https://www.linkedin.com/in/ziyi~zhang/).
+We are students from [The Lally School of Management](https://lallyschool.rpi.edu/) at [Rensselaer Polytechnic Institute](https://www.rpi.edu/).  
+## What is Datathon  
+Just like Hackathon, datathon aims to test students' ability to find and solve problems based on the given data and task in a limited time. The time limitation here is **24** hours. All groups have **15** minutes to present their works to the judges who are senior Ph.D. students or professionals in their industries, especially in data analysis.   
 ## Data source  
 [CFPB Data](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)  
 ## Problem Statement  
