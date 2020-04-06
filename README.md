@@ -38,3 +38,10 @@ Just like Hackathon, datathon aims to test students' ability to find and solve p
     * Required training for complaint handling personnel 
 6. Legislation on preventing identity theft  
 
+## Exploratory data analysis  
+1. business model for CFPB  
+![Business model for CFPB](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/business%20model.png)  
+2. distribution of annual complaints  
+![distribution of annual complaints](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/distribution%20of%20annual%20compaints.png)  
+3. Products in each year
+![Products in each year](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Products%20in%20each%20years.png)  
