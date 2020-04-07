@@ -45,3 +45,12 @@ Just like Hackathon, datathon aims to test students' ability to find and solve p
 ![distribution of annual complaints](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/distribution%20of%20annual%20compaints.png)  
 3. Products in each year
 ![Products in each year](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Products%20in%20each%20years.png)  
+4. Number of complaints per 100k people over time  
+![Num of complaints per 100k people over time](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Num%20of%20complaints%20per%20100k%20people%20over%20time.png)  
+5. Products & sub products  
+![Products & sub products](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Products%20%26%20sub%20products.png)  
+
+## How we thought about this question
+First things first, before we actually move on, we need to define what the market efficiency means in this circumstance. 
+Based on the report from CFPB and our understanding, we provide this graph.  
+![business model](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Our%20definition%20of%20market%20efficiency%20for%20CFPB.png)
