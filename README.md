@@ -38,9 +38,10 @@ Just like Hackathon, datathon aims to test students' ability to find and solve p
     * Required training for complaint handling personnel 
 6. Legislation on preventing identity theft  
 
-## Exploratory data analysis  
-1. business model for CFPB  
+## Exploratory data analysis   
+1. business model for CFPB   
 ![Business model for CFPB](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/business%20model.png)  
+Consumers can submit their complaints on [CFPB official website](https://www.consumerfinance.gov/). It will take CFPB a while to handle this issue. Then, CFPB sends the issue to the financial companies. After these companies receive the complaints, they should provide resolution and response to the customers.  
 2. distribution of annual complaints  
 ![distribution of annual complaints](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/distribution%20of%20annual%20compaints.png)  
 3. Products in each year
@@ -53,4 +54,10 @@ Just like Hackathon, datathon aims to test students' ability to find and solve p
 ## How we thought about this question
 First things first, before we actually move on, we need to define what the market efficiency means in this circumstance. 
 Based on the report from CFPB and our understanding, we provide this graph.  
-![business model](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Our%20definition%20of%20market%20efficiency%20for%20CFPB.png)
+![business model](https://github.com/samileyang/CFPB-Analysis/blob/master/pics/Our%20definition%20of%20market%20efficiency%20for%20CFPB.png)  
+Decreasing the total time spending on the complaints is our [*North Star Metric*](https://growthhackers.com/articles/north-star-metric) . Undoubtedly, there are three aspects we should focus on:  
+1. CFPB Internal Efficency  
+2. Company Efficiency  
+3. Consumer Efficiency  
+
+
